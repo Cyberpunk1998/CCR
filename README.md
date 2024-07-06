@@ -62,6 +62,10 @@ More detailed about SUES-200 dataset structure:
 ```
 
 ## Model weights
+This is our weight download address. If you want to use it, please download and unzip it and put it in the root directory of the CCR project.
+
+Address: [Here (Baidu Cloud Disk)](https://pan.baidu.com/s/1yE6c2gvY6Iv6riHDLtOxaw) Extraction code: 0000
+
 You can find our model weights in the **model/CCR_Model_University** folder. The weighting applies only to University-1652.
 
 If you want to use this weight, replace the **models** folder with the **model/CCR_Model_University/models** folder.
