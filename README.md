@@ -1,8 +1,6 @@
 # CCR
 
-This repository contains the dataset link and the code for our paper [CCR: A Counterfactual Causal Reasoning-based Method for Cross-view Geo-localization](https://ieeexplore.ieee.org/document/link链接), IEEE Transactions on Circuits and Systems for Video Technology. Thank you for your interest in this work.
-
-The article has been accepted and is awaiting formal publication.
+This repository contains the dataset link and the code for our paper [CCR: A Counterfactual Causal Reasoning-based Method for Cross-view Geo-localization](https://ieeexplore.ieee.org/abstract/document/10589694), IEEE Transactions on Circuits and Systems for Video Technology. Thank you for your interest in this work.
 
 
 ## Requirement
@@ -92,5 +90,11 @@ bash test_university.sh
 ## Citation
 
 ```bibtex
-CCR: A Counterfactual Causal Reasoning-based Method for Cross-view Geo-localization}}
+@article{du2024ccr,
+  title={CCR: A Counterfactual Causal Reasoning-based Method for Cross-view Geo-localization},
+  author={Du, Haolin and He, Jingfei and Zhao, Yuanqing},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
 ```
